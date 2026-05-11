@@ -1,0 +1,3 @@
+<launch>
+    <node pkg="services_quiz_pkg" type="circle_move_server.py" name="er_circle_move_server_node" output="screen" />
+</launch>
